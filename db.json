@@ -1,0 +1,404 @@
+[
+ {
+  "organization": "node ninja",
+  "createdAt": "2020-08-12T19:04:55.455Z",
+  "updatedAt": "2020-08-12T19:04:55.455Z",
+  "products": [
+   "developers",
+   "pizza"
+  ],
+  "marketValue": "90%",
+  "address": "sangotedo",
+  "ceo": "cn",
+  "country": "Taiwan",
+  "id": 22,
+  "noOfEmployees": 2,
+  "employees": [
+   "james bond",
+   "jackie chan"
+  ]
+ },
+ {
+  "organization": "node ninja",
+  "createdAt": "2020-08-12T19:04:55.455Z",
+  "updatedAt": "2020-08-12T19:04:55.455Z",
+  "products": [
+   "developers",
+   "pizza"
+  ],
+  "marketValue": "90%",
+  "address": "sangotedo",
+  "ceo": "cn",
+  "country": "Taiwan",
+  "id": 3,
+  "noOfEmployees": 2,
+  "employees": [
+   "james bond",
+   "jackie chan"
+  ]
+ },
+ {
+  "organization": "node ninja",
+  "createdAt": "2020-08-12T19:04:55.455Z",
+  "updatedAt": "2020-08-12T19:04:55.455Z",
+  "products": [
+   "developers",
+   "pizza"
+  ],
+  "marketValue": "90%",
+  "address": "sangotedo",
+  "ceo": "cn",
+  "country": "Taiwan",
+  "id": 4,
+  "noOfEmployees": 2,
+  "employees": [
+   "james bond",
+   "jackie chan"
+  ]
+ },
+ {
+  "organization": "node ninja",
+  "createdAt": "2020-08-12T19:04:55.455Z",
+  "updatedAt": "2020-08-12T19:04:55.455Z",
+  "products": [
+   "developers",
+   "pizza"
+  ],
+  "marketValue": "90%",
+  "address": "sangotedo",
+  "ceo": "cn",
+  "country": "Taiwan",
+  "id": 5,
+  "noOfEmployees": 2,
+  "employees": [
+   "james bond",
+   "jackie chan"
+  ]
+ },
+ {
+  "organization": "node ninja",
+  "createdAt": "2020-08-12T19:04:55.455Z",
+  "updatedAt": "2020-08-12T19:04:55.455Z",
+  "products": [
+   "developers",
+   "pizza"
+  ],
+  "marketValue": "90%",
+  "address": "sangotedo",
+  "ceo": "cn",
+  "country": "Taiwan",
+  "id": 6,
+  "noOfEmployees": 2,
+  "employees": [
+   "james bond",
+   "jackie chan"
+  ]
+ },
+ {
+  "organization": "node ninja",
+  "createdAt": "2020-08-12T19:04:55.455Z",
+  "updatedAt": "2020-08-12T19:04:55.455Z",
+  "products": [
+   "developers",
+   "pizza"
+  ],
+  "marketValue": "90%",
+  "address": "sangotedo",
+  "ceo": "cn",
+  "country": "Taiwan",
+  "id": 7,
+  "noOfEmployees": 2,
+  "employees": [
+   "james bond",
+   "jackie chan"
+  ]
+ },
+ {
+  "organization": "node ninja",
+  "createdAt": "2020-08-12T19:04:55.455Z",
+  "updatedAt": "2020-08-12T19:04:55.455Z",
+  "products": [
+   "developers",
+   "pizza"
+  ],
+  "marketValue": "90%",
+  "address": "sangotedo",
+  "ceo": "cn",
+  "country": "Taiwan",
+  "id": 8,
+  "noOfEmployees": 2,
+  "employees": [
+   "james bond",
+   "jackie chan"
+  ]
+ },
+ {
+  "organization": "node ninja",
+  "createdAt": "2020-08-12T19:04:55.455Z",
+  "updatedAt": "2020-08-12T19:04:55.455Z",
+  "products": [
+   "developers",
+   "pizza"
+  ],
+  "marketValue": "90%",
+  "address": "sangotedo",
+  "ceo": "cn",
+  "country": "Taiwan",
+  "id": 9,
+  "noOfEmployees": 2,
+  "employees": [
+   "james bond",
+   "jackie chan"
+  ]
+ },
+ {
+  "organization": "node ninja",
+  "createdAt": "2020-08-12T19:04:55.455Z",
+  "updatedAt": "2020-08-12T19:04:55.455Z",
+  "products": [
+   "developers",
+   "pizza"
+  ],
+  "marketValue": "90%",
+  "address": "sangotedo",
+  "ceo": "cn",
+  "country": "Taiwan",
+  "id": 10,
+  "noOfEmployees": 2,
+  "employees": [
+   "james bond",
+   "jackie chan"
+  ]
+ },
+ {
+  "organization": "node ninja",
+  "createdAt": "2020-08-12T19:04:55.455Z",
+  "updatedAt": "2020-08-12T19:04:55.455Z",
+  "products": [
+   "developers",
+   "pizza"
+  ],
+  "marketValue": "90%",
+  "address": "sangotedo",
+  "ceo": "cn",
+  "country": "Taiwan",
+  "id": 11,
+  "noOfEmployees": 2,
+  "employees": [
+   "james bond",
+   "jackie chan"
+  ]
+ },
+ {
+  "organization": "node ninja",
+  "createdAt": "2020-08-12T19:04:55.455Z",
+  "updatedAt": "2020-08-12T19:04:55.455Z",
+  "products": [
+   "developers",
+   "pizza"
+  ],
+  "marketValue": "90%",
+  "address": "sangotedo",
+  "ceo": "cn",
+  "country": "Taiwan",
+  "id": 12,
+  "noOfEmployees": 2,
+  "employees": [
+   "james bond",
+   "jackie chan"
+  ]
+ },
+ {
+  "organization": "node ninja",
+  "createdAt": "2020-08-12T19:04:55.455Z",
+  "updatedAt": "2020-08-12T19:04:55.455Z",
+  "products": [
+   "developers",
+   "pizza"
+  ],
+  "marketValue": "90%",
+  "address": "sangotedo",
+  "ceo": "cn",
+  "country": "Taiwan",
+  "id": 13,
+  "noOfEmployees": 2,
+  "employees": [
+   "james bond",
+   "jackie chan"
+  ]
+ },
+ {
+  "organization": "node ninja",
+  "createdAt": "2020-08-12T19:04:55.455Z",
+  "updatedAt": "2020-08-12T19:04:55.455Z",
+  "products": [
+   "developers",
+   "pizza"
+  ],
+  "marketValue": "90%",
+  "address": "sangotedo",
+  "ceo": "cn",
+  "country": "Taiwan",
+  "id": 14,
+  "noOfEmployees": 2,
+  "employees": [
+   "james bond",
+   "jackie chan"
+  ]
+ },
+ {
+  "organization": "node ninja",
+  "createdAt": "2020-08-12T19:04:55.455Z",
+  "updatedAt": "2020-08-12T19:04:55.455Z",
+  "products": [
+   "developers",
+   "pizza"
+  ],
+  "marketValue": "90%",
+  "address": "sangotedo",
+  "ceo": "cn",
+  "country": "Taiwan",
+  "id": 15,
+  "noOfEmployees": 2,
+  "employees": [
+   "james bond",
+   "jackie chan"
+  ]
+ },
+ {
+  "organization": "node ninja",
+  "createdAt": "2020-08-12T19:04:55.455Z",
+  "updatedAt": "2020-08-12T19:04:55.455Z",
+  "products": [
+   "developers",
+   "pizza"
+  ],
+  "marketValue": "90%",
+  "address": "sangotedo",
+  "ceo": "cn",
+  "country": "Taiwan",
+  "id": 16,
+  "noOfEmployees": 2,
+  "employees": [
+   "james bond",
+   "jackie chan"
+  ]
+ },
+ {
+  "organization": "node ninja",
+  "createdAt": "2020-08-12T19:04:55.455Z",
+  "updatedAt": "2020-08-12T19:04:55.455Z",
+  "products": [
+   "developers",
+   "pizza"
+  ],
+  "marketValue": "90%",
+  "address": "sangotedo",
+  "ceo": "cn",
+  "country": "Taiwan",
+  "id": 17,
+  "noOfEmployees": 2,
+  "employees": [
+   "james bond",
+   "jackie chan"
+  ]
+ },
+ {
+  "organization": "node ninja",
+  "createdAt": "2020-08-12T19:04:55.455Z",
+  "updatedAt": "2020-08-12T19:04:55.455Z",
+  "products": [
+   "developers",
+   "pizza"
+  ],
+  "marketValue": "90%",
+  "address": "sangotedo",
+  "ceo": "cn",
+  "country": "Taiwan",
+  "id": 18,
+  "noOfEmployees": 2,
+  "employees": [
+   "james bond",
+   "jackie chan"
+  ]
+ },
+ {
+  "organization": "node ninja",
+  "createdAt": "2020-08-12T19:04:55.455Z",
+  "updatedAt": "2020-08-12T19:04:55.455Z",
+  "products": [
+   "developers",
+   "pizza"
+  ],
+  "marketValue": "90%",
+  "address": "sangotedo",
+  "ceo": "cn",
+  "country": "Taiwan",
+  "id": 19,
+  "noOfEmployees": 2,
+  "employees": [
+   "james bond",
+   "jackie chan"
+  ]
+ },
+ {
+  "organization": "node ninja",
+  "createdAt": "2020-08-12T19:04:55.455Z",
+  "updatedAt": "2020-08-12T19:04:55.455Z",
+  "products": [
+   "developers",
+   "pizza"
+  ],
+  "marketValue": "90%",
+  "address": "sangotedo",
+  "ceo": "cn",
+  "country": "Taiwan",
+  "id": 20,
+  "noOfEmployees": 2,
+  "employees": [
+   "james bond",
+   "jackie chan"
+  ]
+ },
+ {
+  "organization": "node ninja",
+  "createdAt": "2020-08-12T19:04:55.455Z",
+  "updatedAt": "2020-08-12T19:04:55.455Z",
+  "products": [
+   "developers",
+   "pizza"
+  ],
+  "marketValue": "90%",
+  "address": "sangotedo",
+  "ceo": "cn",
+  "country": "Taiwan",
+  "id": 21,
+  "noOfEmployees": 2,
+  "employees": [
+   "james bond",
+   "jackie chan"
+  ]
+ },
+ {
+  "organization": "node ninja",
+  "createdAt": "2020-08-12T19:04:55.455Z",
+  "updatedAt": "2020-08-12T19:04:55.455Z",
+  "products": [
+   "developers",
+   "pizza"
+  ],
+  "marketValue": "90%",
+  "address": "sangotedo",
+  "ceo": "cn",
+  "country": "Taiwan",
+  "id": 22,
+  "noOfEmployees": 2,
+  "employees": [
+   "james bond",
+   "jackie chan"
+  ]
+ }
+]
+
+
+

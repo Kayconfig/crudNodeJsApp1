@@ -1,0 +1,22 @@
+[
+ {
+  "organization": "Stephen Brondo",
+  "products": [
+   "Programmer",
+   "Ronaldo"
+  ],
+  "marketValue": "60%",
+  "address": "Anambra",
+  "ceo": "bn",
+  "country": "Nigeria",
+  "noOfEmployees": 3,
+  "employees": [
+   "james bond",
+   "chan",
+   "bruce lee"
+  ],
+  "id": 2,
+  "createdAt": "2021-08-05T14:54:46.100Z",
+  "updatedAt": "2021-08-05T14:54:46.100Z"
+ }
+]
